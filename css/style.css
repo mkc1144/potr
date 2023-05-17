@@ -1,0 +1,219 @@
+/* CSS code for your website */
+
+/* Reset default browser styles */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  background-color: #222;
+  padding: 20px;
+  color: #fff;
+  text-align: center; /* Center-align the navigation bar */
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a.active {
+  font-weight: bold;
+}
+
+/* Section styles */
+section {
+  padding: 40px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Footer styles */
+footer {
+  background-color: #222;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+
+/* CSS code for your portfolio page */
+
+/* Portfolio styles */
+.portfolio {
+  padding: 40px;
+}
+
+.portfolio h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+
+.item {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.item img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.item h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.item p {
+  font-size: 14px;
+}
+
+/* Additional CSS code for the circular image */
+.profile-image {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.profile-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Additional CSS code for the call-to-action button */
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 80px; /* Adjust the margin-bottom value to increase the spacing */
+}
+
+.call-to-action a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+/* Additional CSS code for the contact page */
+.contact h1 {
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  margin-bottom: 40px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+    
+/* Additional CSS code for the call-to-action button */
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.call-to-action a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.call-to-action a:hover {
+  background-color: #555;
+}
+/* Additional CSS code for the call-to-action button */
+.call-to-action a.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.call-to-action a.cta-button:hover {
+  background-color: #555;
+}
+
+
+
+   
+
+
+    

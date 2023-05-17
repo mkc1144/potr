@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="portfolio.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="project">
+    <h2>Climbing Mount Everest: A VR Experience</h2>
+    <ul>
+      <li><a href="project1docs/Climbing Everest literature review (1).pdf">Literature Review</a></li>
+      <li><a href="project1docs/Climbing Everest_VR Experience.pptx">Powerpoint</a></li>
+    </ul>
+  </section>
+
+  <section class="project">
+    <h2>Redesign Analysis on Frank Ocean's Website</h2>
+    <ul>
+      <li><a href="project1docs/IA Final.pdf">Website Analysis Paper</a></li>
+      <li><a href="project1docs/IA Final.pptx">PowerPoint</a></li>
+    </ul>
+  </section>
+
+  <section class="project">
+    <h2>Usability Testing on NYC Park Website</h2>
+    <ul>
+      <li><a href="project1docs/research paper - usability test.docx">Document</a></li>
+      <li><a href="project1docs/UX Research & Data Analytics Final.pdf">PowerPoint</a></li>
+    </ul>
+  </section>
+
+  <section class="project">
+    <h2>Dogdiet App Prototype</h2>
+    <ul>
+      <li><a href="project1docs/final - muskan  (1).pptx">PowerPoint</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Muskan KC. All rights reserved.</p>
+  </footer>
+</body>
+
+
